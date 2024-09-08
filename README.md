@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi There 👋
 🔭 I’m currently working on SGU<br>🌱 I’m currently learning React Native
 
 
